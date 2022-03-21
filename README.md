@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ ./preflight.sh
+$ curl https://raw.githubusercontent.com/threecommaio/preflight/main/preflight.sh | sh
 ```
 
 ## Next steps
