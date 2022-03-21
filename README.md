@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ curl https://raw.githubusercontent.com/threecommaio/preflight/main/preflight.sh | sh
+/bin/bash -c "$(curl -fsSL  https://raw.githubusercontent.com/threecommaio/preflight/main/preflight.sh)"
 ```
 
 ## Next steps
